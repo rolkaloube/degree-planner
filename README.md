@@ -17,4 +17,4 @@ o	2–4 semester plan using basic greedy scheduling
 ### **Beyond MVP:**
 Constraint options: “no more than 15 credits,” “avoid morning classes”, etc.
 ### **Available Resources:**
-Small mock catalog dataset
+Small mock catalog dataset in <u>*Course Data.xlsx*</u>. If Excel or LibreOffice isn't convenient, the data is duplicated in <u>*Course Catalog.csv*</u> and <u>*Class Schedules.csv*</u>
