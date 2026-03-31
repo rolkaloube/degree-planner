@@ -1,0 +1,31 @@
+﻿Code,Course Name,Prerequisites,Credit Hours
+ENG101,Introduction to Composition,None,3
+ENG201,Intermediate Composition,ENG101
+ENG210,Introduction to Literature,ENG101
+ENG305,Creative Writing Workshop,ENG201
+ENG320,American Literature,ENG210
+ENG410,Advanced Literary Analysis,ENG320
+MATH101,College Algebra,None
+MATH120,Pre-Calculus,MATH101
+MATH201,Calculus I,MATH120
+MATH202,Calculus II,MATH201
+MATH310,Linear Algebra,MATH201
+MATH420,Differential Equations,"MATH202, MATH310"
+CS101,Introduction to Programming,None
+CS150,Data Structures,CS 101
+CS220,Computer Organization,CS 101
+CS301,Algorithms,CS 150
+CS340,Operating Systems,"CS220, CS150"
+CS450,Machine Learning,"CS301, MATH310"
+PSY101,Introduction to Psychology,None
+PSY210,Developmental Psychology,PSY101
+PSY230,Cognitive Psychology,PSY101
+PSY320,Abnormal Psychology,PSY210
+PSY350,Research Methods in Psychology,"PSY101, MATH101"
+PSY410,Advanced Behavioral Analysis,"PSY320, PSY350"
+BIO101,General Biology I,None
+BIO102,General Biology II,BIO101
+BIO210,Genetics,BIO102
+BIO250,Microbiology,BIO102
+BIO330,Cell Biology,BIO210
+BIO420,Molecular Biology,BIO330
