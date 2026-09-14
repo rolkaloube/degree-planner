@@ -1,4 +1,3 @@
-# degree-planner
 ## **Prompt:**
 Build an interactive course planner to assist students planning their next semester’s course load.
 ## **Problem:**
